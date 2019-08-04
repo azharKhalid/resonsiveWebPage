@@ -1,2 +1,2 @@
-# resonsiveWebPage
+# responsiveWebPage
 Responsive Webpage
